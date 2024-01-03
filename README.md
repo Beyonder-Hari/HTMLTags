@@ -31,14 +31,6 @@ body{
 font-family: Comic Sans MS;
 background-color: #50C878;
 }
-div {
-  width:100%;
-  overflow:auto;
-}
-div {
-  width:50%;  
-  float:right;
-}
 
 </style>
 </head>
@@ -55,15 +47,15 @@ div {
   <li><a href="">About</a></li>
 </ul>
 
-<h1 align="center"> HTML Tags</h1></strong></big>
+<h1 align="center"> HTML Tags</h1>
 <center><u><h1>Tags in HTML</h1></u></center>
-<div><h2>
-<div>
-Common Tags</h2>
+<h2>
+Common Tags
+</h2>
 <img src="https://www.oreilly.com/api/v2/epubs/9780768687163/files/graphics/0309tab01.jpg">
 <h3>If Image doesn't open <a href="https://www.oreilly.com/api/v2/epubs/9780768687163/files/graphics/0309tab01.jpg"> Click Here</a>
-</div><div>
 <h2> Tags that affect text</h2>
 <img src="https://mason.gmu.edu/~kshiffl4/375/Font_Tags.gif">
-<h3>If image doesn't open <a href="https://mason.gmu.edu/~kshiffl4/375/Font_Tags.gif">Click Here</a></div>
-</div></body></html>
+<h3>If image doesn't open <a href="https://mason.gmu.edu/~kshiffl4/375/Font_Tags.gif">Click Here</a>
+</body>
+</html>
