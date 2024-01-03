@@ -39,14 +39,13 @@ background-color: #50C878;
 <h1 id= "home"> HTML: A Basic Guide</h1>
 </marquee>
 <ul>
-  <li><a class="active" href="https://beyonder-hari.github.io/HTMLBasicGuide/">Home</a></li>
-  <li><a href="#news">HTML Tags</a></li>
-  <li><a href="#contact">History</a></li>
-   <li><a href="#contact">Other Sources</a></li>
-    <li><a href="#contact">Videos</a></li>
-  <li><a href="">About</a></li>
+  <li><a class="active" href="#https://beyonder-hari.github.io/HTMLBasicGuide/">Home</a></li>
+  <li><a href="https://beyonder-hari.github.io/HTMLTags/">HTML Tags</a></li>
+  <li><a href="https://beyonder-hari.github.io/HistoryOfHTML/">History</a></li>
+   <li><a href="https://beyonder-hari.github.io/HTMLSources/">Other Sources</a></li>
+    <li><a href="https://beyonder-hari.github.io/HTMLVideos/">Videos</a></li>
+  <li><a href="https://beyonder-hari.github.io/AboutMe/">About</a></li>
 </ul>
-
 <h1 align="center"> HTML Tags</h1>
 <center><u><h1>Tags in HTML</h1></u></center>
 <h2>
