@@ -52,9 +52,10 @@ background-color: #50C878;
 Common Tags
 </h2>
 <img src="https://www.oreilly.com/api/v2/epubs/9780768687163/files/graphics/0309tab01.jpg">
-<h3>If Image doesn't open <a href="https://www.oreilly.com/api/v2/epubs/9780768687163/files/graphics/0309tab01.jpg"> Click Here</a>
-<h2> Tags that affect text</h2>
+<h3>If Image doesn't open <a href="https://www.oreilly.com/api/v2/epubs/9780768687163/files/graphics/0309tab01.jpg"> Click Here</a></h3>
+<br>
+  <h2> Tags that affect text</h2>
 <img src="https://mason.gmu.edu/~kshiffl4/375/Font_Tags.gif">
-<h3>If image doesn't open <a href="https://mason.gmu.edu/~kshiffl4/375/Font_Tags.gif">Click Here</a>
+<h3>If image doesn't open <a href="https://mason.gmu.edu/~kshiffl4/375/Font_Tags.gif">Click Here</a></h3>
 </body>
 </html>
